@@ -65,24 +65,28 @@ A modern, full-stack bus ticket booking application built with Django REST API b
 ## 📸 Screenshots
 
 ### Home Page & Search Interface
-![Home Page](screenshots/1.png)
-*Modern search interface with source, destination, and date selection*
+![Home Page](screenshots/1.PNG)
+
 
 ### Search Results
-![Search Results](screenshots/2.png)
-*Bus search results with filters and booking options*
+![Search Results](screenshots/2.PNG)
+
 
 ### Seat Selection
-![Seat Selection](screenshots/5.png)
-*Interactive seat map for selecting available seats*
+![Seat Selection](screenshots/5.PNG)
+
 
 ### Booking Confirmation
-![Booking Confirmation](screenshots/7.png)
-*Booking confirmation with passenger and route details*
+![Booking Confirmation](screenshots/7.PNG)
+
 
 ### User Authentication
 ![Login Page](screenshots/3.png)
-*User login and registration pages*
+
+### My Bookings (BOOKED AND CANCELLED)
+![Login Page](screenshots/8.PNG)
+![Login Page](screenshots/9.PNG)
+
 
 ## 🚀 Installation
 
